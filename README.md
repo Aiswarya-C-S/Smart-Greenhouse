@@ -15,3 +15,5 @@ Clone this repository and upload the code to your Arduino.
 ## Usage
 Monitor and control your greenhouse remotely through the Blynk app.
 
+
+1[projectpic](projectpic.jpg)
